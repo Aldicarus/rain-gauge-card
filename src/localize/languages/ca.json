@@ -1,0 +1,10 @@
+{
+  "common": {
+    "version": "Versió",
+    "invalid_configuration": "Configuración incorrecta",
+    "show_warning": "Mostra Advertència",
+    "show_error": "Mostra Error",
+    "rate": "Intensitat",
+    "total": "Total"
+  }
+}
