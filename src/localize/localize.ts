@@ -1,4 +1,5 @@
 import * as cs from './languages/cs.json';
+import * as ca from './languages/ca.json';
 import * as de from './languages/de.json';
 import * as en from './languages/en.json';
 import * as fr from './languages/fr.json';
@@ -9,9 +10,11 @@ import * as sk from './languages/sk.json';
 import * as sl from './languages/sl.json';
 import * as sv from './languages/sv.json';
 
+
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const languages: any = {
   cs: cs,
+  ca: ca,
   de: de,
   en: en,
   fr: fr,
