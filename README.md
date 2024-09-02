@@ -95,6 +95,7 @@ The following languages are supported:
 | Language  | Yaml value | Supported | Translated by                                                                       |
 | --------- | ---------- | --------- | ----------------------------------------------------------------------------------- |
 | Czech     | `cs`       | v1.3.1    | [@MiisaTrAnCe](https://github.com/MiisaTrAnCe)                                      |
+| Catalan   | `ca`       | v1.3.1    | [@Aldicarius](https://github.com/Aldicarus))                                        |
 | Danish    | `da`       | v1.3.1    | [@Tntdruid](https://github.com/Tntdruid)                                            |
 | Dutch     | `nl`       | v1.3.1    | [@jobvk](https://github.com/jobvk)                                                  |
 | English   | `en`       | v1.0.0    | [@t1gr0u](https://github.com/t1gr0u)                                                |
